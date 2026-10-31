@@ -1,0 +1,5 @@
+node_modules
+dist
+android
+app/xlsx.full.min.js
+app/html5-qrcode.min.js
